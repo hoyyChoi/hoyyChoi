@@ -4,12 +4,6 @@
 🏫 Soongsil University software 19
 
 📧 email : hoyeon8165@gmail.com
-#
-🧸 Experience language
-
-<img src="https://img.shields.io/badge/C-skyblue?style=flat&logo=C&logoColor=A8B9CC"/>  <img src="https://img.shields.io/badge/C++-navy?style=flat&logo=C++&logoColor=00599C"/>  <img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=Java&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/Python-darkblue?style=flat&logo=Python&logoColor=3776ABE"/>  
-
-
 
 
 Here are some ideas to get you started:
