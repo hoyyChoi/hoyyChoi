@@ -5,7 +5,7 @@
 
 📧 email : hoyeon8165@gmail.com
 
-<img alt="html5" src ="https://img.shields.io/badge/html-#E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="html5" src ="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
