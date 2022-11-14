@@ -8,11 +8,7 @@
 🧸 Experience language
 
 <img src="https://img.shields.io/badge/C-skyblue?style=flat&logo=C&logoColor=A8B9CC"/>  <img src="https://img.shields.io/badge/C++-navy?style=flat&logo=C++&logoColor=00599C"/>  <img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=Java&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/Python-darkblue?style=flat&logo=Python&logoColor=3776ABE"/>  
-#
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoyyChoi&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoyyChoi&layout=compact&theme=github_dark)
-#
 
 
 
