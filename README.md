@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hoyy%20Choi&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hoyy%20Choi&fontSize=90)
 <!--
 
 🏫 Soongsil University software 19
@@ -19,17 +19,15 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoyyChoi&show_icons=true&theme=radical)
 
-
+ -->
 
 <h1 align="left" id="macropower-title">:wave: Hello! I'm hoyyChoi</h1>
 <h3 align="left">My dream is to become a front-end developer.</h3>
 
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
-- 🏫: &nbsp;I'm currently attending Soongsil University.
+- 🏫: &nbsp;I'm currently attending Soongsil University software.
 - 📖: &nbsp;I’m currently learning **React-Native**
 - 🐤: &nbsp;
 - 📧: &nbsp;hoyeon8165@gmail.com
