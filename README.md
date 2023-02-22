@@ -2,7 +2,7 @@
 <h3 align="left">My dream is to become a front-end developer.</h3>
 
 
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" />
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" />
 
 - 🏫: &nbsp;I'm currently attending Soongsil University software.
 - 📖: &nbsp;I’m currently learning **React-Native**
