@@ -1,31 +1,8 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hoyy%20Choi&fontSize=90)
-<!--
-
-🏫 Soongsil University software 19
-
-📧 email : hoyeon8165@gmail.com
-
-<img alt="html5" src ="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoyyChoi&show_icons=true&theme=radical)
-
- -->
-
 <h1 align="left" id="macropower-title">:wave: Hello! I'm hoyyChoi</h1>
 <h3 align="left">My dream is to become a front-end developer.</h3>
 
 
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" />
 
 - 🏫: &nbsp;I'm currently attending Soongsil University software.
 - 📖: &nbsp;I’m currently learning **React-Native**
