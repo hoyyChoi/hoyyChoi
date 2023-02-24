@@ -6,7 +6,7 @@
 
 - 🏫: &nbsp;I'm currently attending Soongsil University software.
 - 📖: &nbsp;I’m currently learning **React-Native**
-- 🐤: &nbsp;
+- 🐤: &nbsp;My hobby is fitness. 🏋🏻
 - 📧: &nbsp;hoyeon8165@gmail.com
 - :computer: &nbsp; 
 
