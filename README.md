@@ -2,13 +2,13 @@
 <h3 align="left">My dream is to become a front-end developer.</h3>
 
 
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" />
-
+<img align='center' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="700" />
+<!-- 
 - 🏫: &nbsp;I'm currently attending Soongsil University software.
 - 📖: &nbsp;I’m currently learning **Next.js**
 - 🐤: &nbsp;My hobby is fitness. 🏋🏻
 - 📧: &nbsp;hoyeon8165@gmail.com
-- :computer: &nbsp; 
+- :computer: &nbsp;  -->
 
 <br>
 
