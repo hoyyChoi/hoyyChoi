@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/yarn-2C8EBB?style=flat&logo=yarn&logoColor=white"/>
 <img src="https://img.shields.io/badge/vite-646CFF?style=flat&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/CreateReactApp-09D3AC?style=flat&logo=createreactapp&logoColor=white"/>
 <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white"/>
