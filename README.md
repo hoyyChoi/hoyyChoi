@@ -1,7 +1,7 @@
 <h1 align="left" id="macropower-title">🤡 Hello! I'm hoyyChoi</h1>
 
 
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="420" />
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="380" />
 
 
 
