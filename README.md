@@ -1,16 +1,9 @@
-<h1 align="left" id="macropower-title">:wave: Hello! I'm hoyyChoi</h1>
-<h3 align="left">My dream is to become a front-end developer.</h3>
+<h1 align="left" id="macropower-title">🤡 Hello! I'm hoyyChoi</h1>
 
 
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" />
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="420" />
 
-- 🏫: &nbsp;I'm currently attending Soongsil University software.
-- 📖: &nbsp;I’m currently learning **Next.js**, **React-Native**
-- 🐤: &nbsp;My hobby is fitness. 🏋🏻
-- 📧: &nbsp;hoyeon8165@gmail.com
-- :computer: &nbsp; 
 
-<br>
 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,react,next,vite,redux,styledcomponents,git,github,figma,vscode,vercel,netlify&perline=8)](https://skillicons.dev)
@@ -35,5 +28,6 @@
 <img src="https://img.shields.io/badge/netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/> <img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white"/> -->
+<br>
 
-<a href="https://github.com/hoyyChoi"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=hoyyChoi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_public=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoyyChoi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://github.com/hoyyChoi" width="100%" ><img height="137px" src="https://github-readme-stats.vercel.app/api?username=hoyyChoi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_public=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoyyChoi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
