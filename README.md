@@ -4,10 +4,9 @@
   <span>
     <h3>⚙️ Tech Stack</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,react,next,nodejs,aws,elasticsearch,vite,firebase,jest,lit,npm,yarn,redux,styledcomponents,emotion,git,github,githubactions,gitlab,figma,vscode,vercel,netlify&perline=8" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,react,next,nodejs,aws,elasticsearch,vite,firebase,jest,lit,npm,yarn,redux,styledcomponents,emotion,git,github,githubactions,gitlab,figma,vscode,vercel,netlify&perline=11" alt="My Skills" />
     </a>
   </span>
-  <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="auto" />
 </div>
 
 
