@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=hoyyChoi%20🤡&fontSize=70&fontColor=black)
 
-> **"칼을 뽑았으면 무라도 썰자"는 각오로, 프론트엔드 개발 역량을 쌓아가고 있습니다.**
+> **도전을 두려워하지 않고, 어제의 나보다 더 나은 나로 성장하는 프론트엔드 개발자입니다.**
 
 ## 🏃🏻‍➡️ experiences
 - **우아한테크코스 - 7기 웹프론트엔드 파트** `2025.02 ~ 2025.11`
